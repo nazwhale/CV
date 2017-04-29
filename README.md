@@ -5,13 +5,13 @@
 
 ### About Me
 
-By nature I'm an insanely curious person with a great enthusiasm for tech who constantly needs to be learning something new. I thrive in intellectually stimulating work environments, am adept at self-led learning, and love the buzz of seeing my code come to life and my tests turn green.
+By nature I'm an insanely curious person with a great enthusiasm for tech who constantly needs to be learning something new. I thrive in intellectually stimulating work environments, am adept at independent problem-solving, and love the buzz of seeing my code come to life and my tests turn green.
 
 After my degree, I made a conscious decision to try and travel the world whilst financially supporting myself from my laptop. I found several freelance writing jobs and spent 2 years living and working in Morocco, Colombia, Sri Lanka, Guatemala, and China. I am currently laerning to code at [Makers Academy](http://www.makersacademy.com/), a highly-selective software development bootcamp in London.
 
 I'm looking for a career in London's tech scene as a full-stack developer, in which I can continue to push myself and learn something new every day. 
 
-**Coding Languages:** JavaScript, Ruby/Rails, HTML5, CSS  
+**Coding Languages:** JavaScript, Ruby/Rails, HTML5, CSS. But, moreover, language-agnostic and confident to dive into anything.
 **Tech Skills:** TDD, Pair Programming, Google Ninja
 
 ***
