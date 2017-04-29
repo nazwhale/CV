@@ -5,7 +5,9 @@
 
 ### About Me
 
-By nature I'm an insanely curious person with a great enthusiasm for tech who constantly needs to be learning something new. I thrive in intellectually stimulating work environments, am adept at independent problem-solving, and love the buzz of seeing my code come to life and my tests turn green.
+Six months ago I thought I was a person without a passion. I found it in coding and I can't quite belive it.
+
+I've always been a naturally curious person with a great enthusiasm for tech and I get bored quickly if I'm not learning something new. I feel that I thrive in intellectually stimulating work environments, am adept at independent problem-solving, and love the buzz of seeing my code come to life and my tests turn green.
 
 After my degree, I made a conscious decision to try and travel the world whilst financially supporting myself from my laptop. I found several freelance writing jobs and spent 2 years living and working in Morocco, Colombia, Sri Lanka, Guatemala, and China. I am currently laerning to code at [Makers Academy](http://www.makersacademy.com/), a highly-selective software development bootcamp in London.
 
