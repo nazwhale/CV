@@ -29,11 +29,11 @@ Later, I learned to critique experimental designs and evaluate academic literatu
 
 **Excellent Communicator**
 
+Since choosing to become a developer, I have strived to improve my written communication skills by blogging about my experience learning to code. I believe that the ability for a developer to communcicate their code to others is crucial. As a result, I'm constantly trying to improve my powers of articultion using the correct vocabularly.
+
 For two years I was a freelance writer, having my work published online at Canvas and Music is My Sanctuary, as well as published in print for Middlesex University. I learned to adapt my writing for different audiences, crafting my style for their specific requirements, and was obsessive about improving my skills.
 
-Whilst traveling, I believe my verbal communication has also significantly improved. In two years I've lived in 5 countries for more than 3 months. As a result, I am comfortable communicating with people from a diverse range of backgrounds.
-
-Since choosing to become a developer, I have continued to improve my written communication skills by blogging about my experience learning to code.
+Whilst traveling, I believe my verbal communication also significantly improved. In two years I've lived in 5 countries for more than 3 months. From this expirience I became comfortable communicating with people from a diverse range of backgrounds.
 
 **Creativity**
 
