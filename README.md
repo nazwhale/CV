@@ -5,13 +5,13 @@
 
 ### About Me
 
-Six months ago I thought I was a person without a passion. I found it in coding and I can't quite belive it.
+Six months ago I thought I was a person without a passion. I found it in coding and I still can't quite belive it. 
 
-I've always been a naturally curious person with a great enthusiasm for tech and I get bored quickly if I'm not learning something new. I feel that I thrive in intellectually stimulating work environments, am adept at independent problem-solving, and love the buzz of seeing my code come to life and my tests turn green.
+After my degree, I made a conscious decision to try and travel the world whilst financially supporting myself from my laptop. I found several freelance writing jobs and spent 2 years living and working in Morocco, Sri Lanka, Colombia, Guatemala, and China. By nature I'm a curious person and quickly get bored if I'm not learning something new. My writing work was repetetive and I started toying with the idea of programming. Soon I discovered the buzz of seeing my code come to life and my tests turn green. 
 
-After my degree, I made a conscious decision to try and travel the world whilst financially supporting myself from my laptop. I found several freelance writing jobs and spent 2 years living and working in Morocco, Colombia, Sri Lanka, Guatemala, and China. I am currently laerning to code at [Makers Academy](http://www.makersacademy.com/), a highly-selective software development bootcamp in London.
+Currently, I'm honing my skills at [Makers Academy](http://www.makersacademy.com/), a highly-selective software development bootcamp in London. I love working in an intellectually stimulating environment, have become adept at independent problem-solving, and am improving my teamwork-related soft-skills every day. 
 
-I'm looking for a career in London's tech scene as a full-stack developer, in which I can continue to push myself and learn something new every day. 
+I am now looking for a career in London's tech scene as a full-stack developer, in which I can continue to push myself and learn something new every day. 
 
 **Coding Languages:** JavaScript, Ruby/Rails, HTML5, CSS*
 
