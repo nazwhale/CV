@@ -11,8 +11,10 @@ After my degree, I made a conscious decision to try and travel the world whilst 
 
 I'm looking for a career in London's tech scene as a full-stack developer, in which I can continue to push myself and learn something new every day. 
 
-**Coding Languages:** JavaScript, Ruby/Rails, HTML5, CSS. But, moreover, language-agnostic and confident to dive into anything.
+**Coding Languages:** JavaScript, Ruby/Rails, HTML5, CSS*
 **Tech Skills:** TDD, Pair Programming, Google Ninja
+
+*Moreover, language-agnostic and confident to dive into anything.
 
 ***
 
