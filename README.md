@@ -17,7 +17,7 @@ I am now looking for a career in London's tech scene as a full-stack developer, 
 
 **Coding Languages:** JavaScript, Ruby/Rails, HTML5, CSS*
 
-**Tech Skills:** TDD, Pair Programming, Google Ninja
+**Tech Skills:** TDD, Pair Programming, Google Ninja, Vim evangelist
 
 *_But, more importantly, language-agnostic and confident to dive into anything._
 
