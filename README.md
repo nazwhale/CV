@@ -5,25 +5,18 @@
 
 ### About Me
 
-Six months ago I thought I was a person without a passion. I found it in coding and I still can't quite belive it. 
+Six months ago I thought I was a person without a passion.
 
-After my degree, I made a conscious decision to try and travel the world whilst financially supporting myself from my laptop. I found several freelance writing jobs and spent 2 years living and working in Morocco, Sri Lanka, Colombia, Guatemala, and China. 
+I’m now a developer who spends his spare time going to meet-ups and conferences, reading tech articles, and getting excited about learning to make bots and neural networks. Coding has taken over my life. I still can't quite believe it.
 
-By nature I'm a curious person and quickly get bored if I'm not learning something new. My writing work was repetetive and I started toying with the idea of programming. Soon I discovered the buzz of seeing my code come to life and my tests turn green. 
+Currently I'm looking for a career in London's tech scene as a full-stack developer, in a company with a good mentoring scheme and a moral compass. When I'm pushed to learn something new every day, for a cause I believe in, I can be happy, motivated, and productive.
 
-Currently, I'm honing my skills at [Makers Academy](http://www.makersacademy.com/), a highly-selective software development bootcamp in London. I love working in an intellectually stimulating environment, have become adept at independent problem-solving, and am improving my teamwork-related soft-skills every day. 
-
-I am now looking for a career in London's tech scene as a full-stack developer, in which I can continue to push myself and learn something new every day. 
-
-**Coding Languages:** JavaScript, Ruby/Rails, HTML5, CSS*
-
-**Tech Skills:** TDD, Pair Programming, Google Ninja, Vim evangelist
-
-*_But, more importantly, language-agnostic and confident to dive into anything._
-
+**Tech Skills:** TDD, Pair Programming, Agile, Language-Agnostic, Vim Ninja
 ***
 
 ## <a name="skills">Skills</a>
+
+Currently, I'm honing my skills at [Makers Academy](http://www.makersacademy.com/), a highly-selective software development bootcamp in London. I love working in an intellectually stimulating environment, have become adept at independent problem-solving, and am improving my teamwork-related soft-skills every day.
 
 **Logical/Analytical Thinker**
 
@@ -75,11 +68,6 @@ Makers Academy's “Oxbridge meets the Royal Marines for developers” environme
 - Geography - A
 - History - A
 
-**Other:**
-
-- Duke of Edinburgh Gold Award
-- RAF flying scholarship
-
 ***
 
 ## <a name="experience">Experience</a>
@@ -97,11 +85,13 @@ Assisted with the running of experiments at the Psychopharmacology lab.
 
 ### Life Experience
 
+After my degree, I made a conscious decision to try and travel the world whilst financially supporting myself from my laptop. I found several freelance writing jobs and spent 2 years living and working in Morocco, Sri Lanka, Colombia, Guatemala, and China.
+
 While traveling, I always kept learning.
 Here are some things I can now do, which I couldn't when I graduated:
 
 - Discipline myself as a freelancer
-- Write with confidence, using good grammar
+- Copywrite professionally with impeccable grammar
 - Speak Spanish at a strong intermediate level
 - Fly a paraglider (achieved private license)
 - Touch my toes (3 months kung-fu study in China)
