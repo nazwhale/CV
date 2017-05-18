@@ -7,26 +7,29 @@
 
 Six months ago I thought I was a person without a passion.
 
-I’m now a developer who spends his spare time going to meet-ups and conferences, reading tech articles, and getting excited about learning to make bots and neural networks. Coding has taken over my life. I still can't quite believe it.
+I’m now a developer who spends his spare time going to meet-ups and conferences, writing a coding blog, reading tech articles,  and using words like 'dope!' and 'stoked!' about bots and neural networks. Coding has taken over my life. I still can't quite believe it.
 
 Currently I'm looking for a career in London's tech scene as a full-stack developer, in a company working at the cutting-edge. Working on a product that I can get excited about is crucial, as is working for a company that will support me in learning new skills.
 
 When I'm pushed to learn something new every day, for a cause I believe in, I'm extremely motivated and productive.
 
-**Tech Skills:** TDD, Pair Programming, Agile, Language-Agnostic, Vim Ninja
+**Tech Skills:** TDD, Pair Programming, Agile, Language-Agnosticism, Vim Ninja
 ***
 
 ## <a name="projects">Projects</a>
 
-|     GitHub Repo  |  Description  | Technologies |    Testing   | Blog Post |
-|--------------|---------------|--------------|--------------|-----------|
-|  [Number Identifier](https://github.com/nazwhale/playing-with-tensorflow)   |  A convolutional Neural Network that learnt how to identify hand-written numbers with 97% accuracy           | Python, Tensorflow       |  RSpec & Capybara            | [Neural Network in a Week](https://medium.com/@nazwhale/neural-network-in-a-week-3ef84175191b) |
-|   [Dusty](https://github.com/nazwhale/dusty)     |  A testing framework written in vanilla JavaScript and published to NPM |       JavaScript      | Jasmine         | [Diving Deeper](https://medium.com/@nazwhale/diving-deeper-a6e519c21ab) |
-|   [PoochPads](https://github.com/kittysquee/poochpads)     |  An AirBnB-style bookings app for dog-owners |   Ruby, PostgreSQL, BCrypt, HTML, CSS      | RSpec, Capybara         | [Team Time](https://medium.com/codewhale/team-time-6fa9a64d8282) |
+|     GitHub Repo  |  Description  | Technologies | Blog Post |
+|--------------|---------------|--------------|------------|
+|  [Number Identifier](https://github.com/nazwhale/playing-with-tensorflow)   |  A convolutional Neural Network that learnt how to identify hand-written digits with 97% accuracy           | Python, Tensorflow          | [Neural Network in a Week](https://medium.com/@nazwhale/neural-network-in-a-week-3ef84175191b) |
+|   [Dusty](https://github.com/nazwhale/dusty)     |  A testing framework written in vanilla JavaScript and published to NPM |       JavaScript, Jasmine         | [Diving Deeper](https://medium.com/@nazwhale/diving-deeper-a6e519c21ab) |
+|   [PoochPads](https://github.com/kittysquee/poochpads)     |  An AirBnB-style bookings app for dog-owners |   Ruby, PostgreSQL, BCrypt, HTML, CSS, RSpec, Capybara         | [Team Time](https://medium.com/codewhale/team-time-6fa9a64d8282) |
+|   [NazBot](https://github.com/nazwhale/nazbot)     |  A Twitter Bot using the Guardian's API to reply to tweets with relevant news stories. [Give it a go!](https://twitter.com/thenazbot/with_replies) |   JavaScript, NodeJS  | [On Rails](https://medium.com/codewhale/on-rails-9346ab7a56b9) |
 
-And here's what my neural network learnt a zero looks like. More pretty pictures in the blog post, if you're interested:
+And here's what my neural network learnt a zero looks like:
 
 ![Screenshot](http://i.imgur.com/ViVyywD.png)
+
+More pretty pictures in the blog post, if you're interested.
 
 ***
 ## <a name="skills">Skills</a>
