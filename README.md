@@ -25,9 +25,9 @@ When I'm pushed to learn something new every day, for a cause I believe in, I'm 
 |   [PoochPads](https://github.com/kittysquee/poochpads)     |  An AirBnB-style bookings app for dog-owners |   Ruby, PostgreSQL, BCrypt, HTML, CSS, RSpec, Capybara         | [Team Time](https://medium.com/codewhale/team-time-6fa9a64d8282) |
 |   [NazBot](https://github.com/nazwhale/nazbot)     |  A Twitter Bot using the Guardian's API to reply to tweets with relevant news stories. [Give it a go!](https://twitter.com/thenazbot/with_replies) |   JavaScript, NodeJS  | [On Rails](https://medium.com/codewhale/on-rails-9346ab7a56b9) |
 
-Here's what my neural network learnt a zero looks like (I couldn't resist):
+Here's what my neural network learnt a three looks like (I couldn't resist):
 
-![Screenshot](http://i.imgur.com/ViVyywD.png)
+![Screenshot](http://i.imgur.com/6IHY1yF.png)
 
 ***
 ## <a name="skills">Skills</a>
