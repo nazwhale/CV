@@ -21,15 +21,13 @@ When I'm pushed to learn something new every day, for a cause I believe in, I'm 
 |     GitHub Repo  |  Description  | Technologies | Blog Post |
 |--------------|---------------|--------------|------------|
 |  [Number Identifier](https://github.com/nazwhale/playing-with-tensorflow)   |  A convolutional Neural Network that learnt how to identify hand-written digits with 97% accuracy           | Python, Tensorflow          | [Neural Network in a Week](https://medium.com/@nazwhale/neural-network-in-a-week-3ef84175191b) |
-|   [Dusty](https://github.com/nazwhale/dusty)     |  A testing framework written in vanilla JavaScript and published to NPM |       JavaScript, Jasmine         | [Diving Deeper](https://medium.com/@nazwhale/diving-deeper-a6e519c21ab) |
+|   [Dusty](https://github.com/nazwhale/dusty)     |  A testing framework written in vanilla JavaScript and [published to NPM](https://www.npmjs.com/package/dusty-testing) |       JavaScript, Jasmine         | [Diving Deeper](https://medium.com/@nazwhale/diving-deeper-a6e519c21ab) |
 |   [PoochPads](https://github.com/kittysquee/poochpads)     |  An AirBnB-style bookings app for dog-owners |   Ruby, PostgreSQL, BCrypt, HTML, CSS, RSpec, Capybara         | [Team Time](https://medium.com/codewhale/team-time-6fa9a64d8282) |
 |   [NazBot](https://github.com/nazwhale/nazbot)     |  A Twitter Bot using the Guardian's API to reply to tweets with relevant news stories. [Give it a go!](https://twitter.com/thenazbot/with_replies) |   JavaScript, NodeJS  | [On Rails](https://medium.com/codewhale/on-rails-9346ab7a56b9) |
 
-And here's what my neural network learnt a zero looks like:
+Here's what my neural network learnt a zero looks like (I couldn't resist):
 
 ![Screenshot](http://i.imgur.com/ViVyywD.png)
-
-More pretty pictures in the blog post, if you're interested.
 
 ***
 ## <a name="skills">Skills</a>
