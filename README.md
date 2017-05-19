@@ -20,9 +20,10 @@ When I'm pushed to learn something new every day, for a cause I believe in, I'm 
 
 |     GitHub Repo  |  Description  | Technologies | Blog Post |
 |--------------|---------------|--------------|------------|
-|  [Number Identifier](https://github.com/nazwhale/playing-with-tensorflow)   |  A convolutional Neural Network that learnt how to identify hand-written digits with 97% accuracy           | Python, Tensorflow          | [Neural Network in a Week](https://medium.com/@nazwhale/neural-network-in-a-week-3ef84175191b) |
-|   [Dusty](https://github.com/nazwhale/dusty)     |  A testing framework written in vanilla JavaScript and [published to NPM](https://www.npmjs.com/package/dusty-testing) |       JavaScript, Jasmine         | [Diving Deeper](https://medium.com/@nazwhale/diving-deeper-a6e519c21ab) |
-|   [PoochPads](https://github.com/kittysquee/poochpads)     |  An AirBnB-style bookings app for dog-owners |   Ruby, PostgreSQL, BCrypt, HTML, CSS, RSpec, Capybara         | [Team Time](https://medium.com/codewhale/team-time-6fa9a64d8282) |
+|  [Number Identifier](https://github.com/nazwhale/playing-with-tensorflow)   |  A convolutional Neural Network that learnt how to identify hand-written digits with 97% accuracy.           | Python, Tensorflow          | [Neural Network in a Week](https://medium.com/@nazwhale/neural-network-in-a-week-3ef84175191b) |
+|   [Dusty](https://github.com/nazwhale/dusty)     |  A testing framework written in vanilla JavaScript and [published to NPM](https://www.npmjs.com/package/dusty-testing). |       JavaScript, Jasmine         | [Diving Deeper](https://medium.com/@nazwhale/diving-deeper-a6e519c21ab) |
+|   [PoochPads](https://github.com/kittysquee/poochpads)     |  An AirBnB-style bookings app for dog-owners, and my first collaborative project. |   Ruby, PostgreSQL, BCrypt, HTML, CSS, RSpec, Capybara         | [Team Time](https://medium.com/codewhale/team-time-6fa9a64d8282) |
+|  [Gilded Rose](https://github.com/nazwhale/GildedRose-Refactoring-Kata)   |  A task to refactor a poor piece of programming. Despite being a small project, I'm proud of the cleanliness and testability of my code.       | Ruby, RSpec          | N/A |
 |   [NazBot](https://github.com/nazwhale/nazbot)     |  A Twitter Bot using the Guardian's API to reply to tweets with relevant news stories. [Give it a go!](https://twitter.com/thenazbot/with_replies) |   JavaScript, NodeJS  | [On Rails](https://medium.com/codewhale/on-rails-9346ab7a56b9) |
 
 Here's what my neural network learnt a three looks like (I couldn't resist):
