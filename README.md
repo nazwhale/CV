@@ -1,19 +1,19 @@
 # Naz Malik
 
-[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Linkedin](https://www.linkedin.com/in/naz-malik-72401199/) | [Coding Blog on Medium](http://www.medium.com/@nazwhale)
+[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Coding Blog on Medium](http://www.medium.com/@nazwhale)
 ***
 
 ### About Me
 
 Six months ago I thought I was a person without a passion.
 
-I’m now a developer who spends his spare time going to meet-ups and conferences, writing a coding blog, reading tech articles,  and using words like 'dope!' and 'stoked!' about bots and neural networks. Coding has taken over my life. I still can't quite believe it.
+I’m now a developer who spends his spare time going to meet-ups and conferences, writing a coding blog, reading tech articles,  and using words like 'dope!' and 'stoked!' about VR, bots, and neural networks. Coding has taken over my life. I still can't quite believe it.
 
-Currently I'm looking for a career in London's tech scene as a full-stack developer, in a company working at the cutting-edge. Working on a product that I can get excited about is crucial, as is working for a company that will support me in learning new skills.
+Currently I'm looking for a career in London's tech scene as a full-stack developer, in an ambitious company working at the top of their field. Working on a product that I can get excited about is crucial, as is working in a team that will support me in learning new skills.
 
 When I'm pushed to learn something new every day, for a cause I believe in, I'm extremely motivated and productive.
 
-**Tech Skills:** TDD, Pair Programming, Agile, Language-Agnosticism, Vim Ninja
+**Tech Skills:** TDD, Pair-Programming, Agile, Fearlessness, Vim Ninja
 ***
 
 ## <a name="projects">Projects</a>
@@ -21,19 +21,24 @@ When I'm pushed to learn something new every day, for a cause I believe in, I'm 
 |     GitHub Repo  |  Description  | Technologies | Blog Post |
 |--------------|---------------|--------------|------------|
 |  [Number Identifier](https://github.com/nazwhale/playing-with-tensorflow)   |  A convolutional Neural Network that learnt how to identify hand-written digits with 97% accuracy.           | Python, Tensorflow          | [Neural Network in a Week](https://medium.com/@nazwhale/neural-network-in-a-week-3ef84175191b) |
-|   [Dusty](https://github.com/nazwhale/dusty)     |  A testing framework written in vanilla JavaScript and [published to NPM](https://www.npmjs.com/package/dusty-testing). |       JavaScript, Jasmine         | [Diving Deeper](https://medium.com/@nazwhale/diving-deeper-a6e519c21ab) |
+|   [Dusty](https://github.com/nazwhale/dusty)     |  A featherweight testing framework written in vanilla JavaScript and [published to NPM](https://www.npmjs.com/package/dusty-testing). |       JavaScript, Jasmine         | [Diving Deeper](https://medium.com/@nazwhale/diving-deeper-a6e519c21ab) |
 |   [PoochPads](https://github.com/kittysquee/poochpads)     |  An AirBnB-style bookings app for dog-owners, and my first collaborative project. |   Ruby, PostgreSQL, BCrypt, HTML, CSS, RSpec, Capybara         | [Team Time](https://medium.com/codewhale/team-time-6fa9a64d8282) |
 |  [Gilded Rose](https://github.com/nazwhale/GildedRose-Refactoring-Kata)   |  A task to refactor a poor piece of programming. Despite being a small project, I'm proud of the cleanliness and testability of my code.       | Ruby, RSpec          | N/A |
 |   [NazBot](https://github.com/nazwhale/nazbot)     |  A Twitter Bot using the Guardian's API to reply to tweets with relevant news stories. [Give it a go!](https://twitter.com/thenazbot/with_replies) |   JavaScript, NodeJS  | [On Rails](https://medium.com/codewhale/on-rails-9346ab7a56b9) |
 
-Here's what my neural network learnt a three looks like (I couldn't resist):
-
-![Screenshot](http://i.imgur.com/6IHY1yF.png)
+Here's my neural network's representation of a 3 (I couldn't resist):
+<div style="text-align:center"><img src ="http://i.imgur.com/6IHY1yF.png" /></div>
 
 ***
 ## <a name="skills">Skills</a>
 
-Currently, I'm honing my skills at [Makers Academy](http://www.makersacademy.com/), a highly-selective software development bootcamp in London. I love working in an intellectually stimulating environment, have become adept at independent problem-solving, and am improving my teamwork-related soft-skills every day.
+**Creativity**
+
+In the last month at Makers Academy, I came up with a quarter of the democratically chosen ideas for the practice and final projects.
+
+Furthermore, I was chosen for a highly competitive dissertation project at UCL specifically for my ability to generate ideas. I put this into use by coming up with a piece of original research and rigorously designing an experiment.
+
+In my own time I've written a bunch of songs, composed music for an animation, designed a learning application (and am tinkering with ideas for several others), and am currently working on 3 novels (which may or may not ever get completed).
 
 **Logical/Analytical Thinker**
 
@@ -43,19 +48,11 @@ Later, I learned to critique experimental designs and evaluate academic literatu
 
 **Excellent Communicator**
 
-Since choosing to become a developer, I have strived to improve my written communication skills by blogging about my experience learning to code. I believe that the ability for a developer to communcicate their code to others is crucial. As a result, I'm constantly trying to improve my powers of articultion using the correct vocabularly.
+I believe that the ability for a developer to communicate their code to others is crucial. As a result, I've paid close attention the way in which I articulate my code when pair-programming and working in groups, a feature of my life as a developer. Additionally, I've strived to improve my written communication skills by blogging about my experience learning to code weekly.
 
-For two years I was a freelance writer, having my work published online at Canvas and Music is My Sanctuary, as well as published in print for Middlesex University. I learned to adapt my writing for different audiences, crafting my style for their specific requirements, and was obsessive about improving my skills.
+For two years I was a freelance writer, having my work published online at Canvas and Music is My Sanctuary, as well as published in print for Middlesex University. I learned to adapt my writing for different audiences, crafting my style for their specific requirements. I was obsessive about improving my skills.
 
-Whilst traveling, I believe my verbal communication also significantly improved. In two years I've lived in 5 countries for more than 3 months. From this expirience I became comfortable communicating with people from a diverse range of backgrounds.
-
-**Creativity**
-
-I've always got an idea on the go. I love brainstorming and bouncing my thoughts off other people.
-
-In the final year of my degree, I was chosen for a highly competitive dissertation project specifically for my ability to generate ideas. I put this into use by coming up with a piece of original research and rigorously designing an experiment.
-
-Additionally, I've written a bunch of songs, composed music for an animation, designed a learning application (and am tinkering with ideas for several others), and am currently working on 3 novels (which may or may not ever get completed).
+Since leaving university I've lived in 5 countries, each for more than 3 months. From this experience I became comfortable communicating with people from a diverse range of backgrounds.
 
 ***
 
@@ -63,12 +60,7 @@ Additionally, I've written a bunch of songs, composed music for an animation, de
 
 #### Makers Academy (March to June '17)
 
-Makers Academy's “Oxbridge meets the Royal Marines for developers” environment aims to produce self-sufficient developers who are evangelical about best practices. Integral to the coding philosophy at Makers are:
-
-- Agile methodologies
-- Object-oriented design
-- Test driven development
-- Pair programming
+Currently, I'm honing my skills at [Makers Academy](http://www.makersacademy.com/), a highly-selective software development bootcamp in London. Their “Oxbridge meets the Royal Marines for developers” environment has turned me into a self-sufficient developer who is evangelical about best practices.
 
 #### University College London (September '11 to July '14)
 
@@ -89,10 +81,10 @@ Makers Academy's “Oxbridge meets the Royal Marines for developers” environme
 
 ## <a name="experience">Experience</a>
 
-### Work Experience
+#### Work Experience
 
-**Freelance Writer** (May '16 to February '17)
-Writing reports, online journalism and copywriting for various companies to fund a globetrotting lifestyle for 2 years after university. Clients included Middlesex University, Canvas, and Music is my Sanctuary.
+**Freelance Writer - Various** (May '16 to February '17)
+Writing reports, online music journalism, and copywriting for various companies to fund a globetrotting lifestyle for 2 years after university.
 
 **Investigative Journalist - Ecostorm** (August '15 to May '16)
 Researching companies violating human and animal rights and compiling reports. I also conducted undercover fieldwork using hidden cameras.
@@ -100,7 +92,7 @@ Researching companies violating human and animal rights and compiling reports. I
 **Research Assistant - University College London** (July to September '14)
 Assisted with the running of experiments at the Psychopharmacology lab.
 
-### Life Experience
+#### Life Experience
 
 After my degree, I made a conscious decision to try and travel the world whilst financially supporting myself from my laptop. I found several freelance writing jobs and spent 2 years living and working in Morocco, Sri Lanka, Colombia, Guatemala, and China.
 
