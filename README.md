@@ -7,7 +7,7 @@
 
 Six months ago I thought I was a person without a passion.
 
-I’m now a developer who spends his spare time going to meet-ups and conferences, writing a coding blog, reading tech articles,  and using words like 'dope!' and 'stoked!' about VR, bots, and neural networks. Coding has taken over my life. I still can't quite believe it.
+I’m now a developer who spends his spare time going to meet-ups and conferences, writing a coding blog, reading tech articles, and using words like 'dope!' and 'stoked!' about VR, bots, and neural networks. I spent my last Sunday developing a Skill for Amazon's Alexa (it just went [live](https://github.com/alexa/skill-sample-nodejs-fact/blob/master/step-by-step/2-lambda-function.md)). Coding has taken over my life. I still can't quite believe it.
 
 Currently I'm looking for a career in London's tech scene as a full-stack developer, in an ambitious company working at the top of their field. Working on a product that I can get excited about is crucial, as is working in a team that will support me in learning new skills.
 
@@ -27,7 +27,7 @@ When I'm pushed to learn something new every day, for a cause I believe in, I'm 
 |   [NazBot](https://github.com/nazwhale/nazbot)     |  A Twitter Bot using the Guardian's API to reply to tweets with relevant news stories. [Give it a go!](https://twitter.com/thenazbot/with_replies) |   JavaScript, NodeJS  | [On Rails](https://medium.com/codewhale/on-rails-9346ab7a56b9) |
 
 Here's my neural network's representation of a 3 (I couldn't resist):
-<div style="text-align:center"><img src ="http://i.imgur.com/6IHY1yF.png" /></div>
+<div style="text-align:center"><img src ="three.png" /></div>
 
 ***
 ## <a name="skills">Skills</a>
@@ -38,11 +38,11 @@ In the last month at Makers Academy, I came up with a quarter of the democratica
 
 Furthermore, I was chosen for a highly competitive dissertation project at UCL specifically for my ability to generate ideas. I put this into use by coming up with a piece of original research and rigorously designing an experiment.
 
-In my own time I've written a bunch of songs, composed music for an animation, designed a learning application (and am tinkering with ideas for several others), and am currently working on 3 novels (which may or may not ever get completed).
+In my own time I've written a bunch of songs, composed music for an animation, and am currently working on a novel.
 
 **Logical/Analytical Thinker**
 
-Logical thinking has always been my strong point - throughout school, I consistently achieved the highest grades in Maths. Additionally, I am a keen chess player.
+Logical thinking has always been my strong point - throughout school, I consistently achieved the highest grades in Maths and Sciences. Additionally, I am a keen chess player.
 
 Later, I learned to critique experimental designs and evaluate academic literature as a fundamental part of my degree in Experimental Psychology. In learning to code, the opportunity to flex my logical thinking muscles once again has been hugely enjoyable and rewarding.
 
