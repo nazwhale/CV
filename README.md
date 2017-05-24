@@ -7,7 +7,7 @@
 
 Six months ago I thought I was a person without a passion.
 
-I’m now a developer who spends his spare time going to meet-ups and conferences, writing a coding blog, reading tech articles, and using words like 'dope!' and 'stoked!' about VR, bots, and neural networks. I spent my last Sunday developing a Skill for Amazon's Alexa (it just went [live](https://github.com/alexa/skill-sample-nodejs-fact/blob/master/step-by-step/2-lambda-function.md)). Coding has taken over my life. I still can't quite believe it.
+I’m now a developer who spends his spare time going to meet-ups and conferences, writing a coding blog, reading tech articles, and using words like 'dope!' and 'stoked!' about VR, bots, and neural networks. I spent my last Sunday developing a Skill for Amazon's Alexa (it just went [live](https://www.amazon.com/dp/B0725WTNWZ/ref=sr_1_1?s=digital-skills&ie=UTF8&qid=1495642862&sr=1-1&keywords=star+wars+facts)). Coding has taken over my life. I still can't quite believe it.
 
 Currently I'm looking for a career in London's tech scene as a full-stack developer, in an ambitious company working at the top of their field. Working on a product that I can get excited about is crucial, as is working in a team that will support me in learning new skills.
 
