@@ -13,7 +13,7 @@ Currently I'm looking for a career in London's tech scene as a full-stack develo
 
 When I'm pushed to learn something new every day, for a cause I believe in, I'm extremely motivated and productive.
 
-**Tech Skills:** TDD, Pair-Programming, Agile, Fearlessness, Vim Ninja
+**Tech Skills:** TDD, Pair-Programming, Agile, Vim Ninja
 ***
 
 ## <a name="projects">Projects</a>
