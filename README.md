@@ -26,7 +26,7 @@ When I'm pushed to learn something new every day, for a cause I believe in, I'm 
 |   [PoochPads](https://github.com/kittysquee/poochpads)     |  An AirBnB-style bookings app for dog-owners, and my first collaborative project. We learnt a lot about collaberating with Git, and well as delegating features between us, having regular stand-ups, and working with XP values and Agile practices. |   Ruby, PostgreSQL, BCrypt, HTML, CSS, RSpec, Capybara         | [Team Time](https://medium.com/codewhale/team-time-6fa9a64d8282) |
 
 
-Here's my neural network's representation of a 3 (I couldn't resist):
+Here's my neural network's representation of a 3 (kind of beautiful, no?):
 <div style="text-align:center"><img src ="three.png" /></div>
 
 ## <a name="side-projects">Side-Projects</a>
