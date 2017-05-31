@@ -37,10 +37,10 @@ Somehow I've ended up with a ridiculous amount of weird coding experiments from 
   - [Repo](https://twitter.com/thenazbot/with_replies)
   - [Blog Post](https://medium.com/codewhale/on-rails-9346ab7a56b9)
 - Star Wars Facts
- - A skill for Amazon's Alexa, now [published on the US skills store](https://www.amazon.com/dp/B0725WTNWZ/ref=sr_1_1?s=digital-skills&ie=UTF8&qid=1495642862&sr=1-1&keywords=star+wars+facts)
- - I adapted a tutorial directly into AWS Lambda one Sunday afternoon, so unfortunately there's no repo
+  - A skill for Amazon's Alexa, now [published on the US skills store](https://www.amazon.com/dp/B0725WTNWZ/ref=sr_1_1?s=digital-skills&ie=UTF8&qid=1495642862&sr=1-1&keywords=star+wars+facts)
+  - I adapted a tutorial directly into AWS Lambda one Sunday afternoon, so unfortunately there's no repository on GitHub (yet)
 - Dusty
-  - A featherweight testing framework for JavaScript
+  - A featherweight testing framework for JavaScript. It only has 3 matchers, and, thought I realise this might be excessively featherweight, it was fun to make and pleasing to publish
   - [Repo](https://github.com/nazwhale/dusty)
   - [Blog Post](https://medium.com/@nazwhale/diving-deeper-a6e519c21ab)
   - It's [published to NPM](https://www.npmjs.com/package/dusty-testing). People are downloading it!
@@ -76,13 +76,13 @@ Since leaving university I've lived in 5 countries, each for more than 3 months.
 
 #### Makers Academy (March to June '17)
 
-Currently, I'm honing my skills at [Makers Academy](http://www.makersacademy.com/), a highly-selective software development bootcamp in London. Their “Oxbridge meets the Royal Marines for developers” environment has turned me into a self-sufficient developer who is evangelical about best practices.
+Currently, I'm honing my skills at [Makers Academy](http://www.makersacademy.com/), a highly-selective software development bootcamp in London. Their “Oxbridge meets the Royal Marines for developers” environment has transformed me from a writer to a self-sufficient and enthusiastic developer.
 
 #### University College London (September '11 to July '14)
 
 - BSc Experimental Psychology
 - High 2:1 grade
-- High 1st in dissertation, titled "Effects of MDMA on response to ostracism"
+- High 1st in dissertation
 
 #### Reigate Grammar School (September '03 to July '10)
 
@@ -112,8 +112,8 @@ Assisted with the running of experiments at the Psychopharmacology lab.
 
 After my degree, I made a conscious decision to try and travel the world whilst financially supporting myself from my laptop. I found several freelance writing jobs and spent 2 years living and working in Morocco, Sri Lanka, Colombia, Guatemala, and China.
 
-While traveling, I always kept learning.
-Here are some things I can now do, which I couldn't when I graduated:
+While traveling, I always tried to keep learning.
+Here are some things I can do, which I couldn't when I graduated:
 
 - Discipline myself as a freelancer
 - Copywrite professionally with impeccable grammar
