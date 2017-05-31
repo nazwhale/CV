@@ -58,7 +58,7 @@ In my own time I've written a bunch of songs, composed music for an animation, a
 
 **Logical/Analytical Thinker**
 
-Logical thinking has always been my strong point - throughout school, I consistently achieved the highest grades in Maths and Sciences. Additionally, I am a keen chess player.
+Logical thinking has always been my strong point - throughout school, I consistently achieved my highest grades in Maths and Sciences. Additionally, I am a keen chess player.
 
 Later, I learned to critique experimental designs and evaluate academic literature as a fundamental part of my degree in Experimental Psychology. In learning to code, the opportunity to flex my logical thinking muscles once again has been hugely enjoyable and rewarding.
 
