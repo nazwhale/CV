@@ -1,33 +1,49 @@
 # Naz Malik
 
-[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Coding Blog on Medium](http://www.medium.com/@nazwhale)
+[Projects](#projects) | [Side-Projects](#side-projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Coding Blog on Medium](http://www.medium.com/@nazwhale)
 ***
 
 ### About Me
 
-Six months ago I thought I was a person without a passion.
+Five months ago I thought I was a person without a passion.
 
-I’m now a developer who spends his spare time going to meet-ups and conferences, writing a coding blog, reading tech articles, and using words like 'dope!' and 'stoked!' about VR, bots, and neural networks. I spent my last Sunday developing a Skill for Amazon's Alexa (it just went [live](https://www.amazon.com/dp/B0725WTNWZ/ref=sr_1_1?s=digital-skills&ie=UTF8&qid=1495642862&sr=1-1&keywords=star+wars+facts)). Coding has taken over my life. I still can't quite believe it.
+I’m now a developer who spends his spare time going to meet-ups and conferences, writing a coding blog, reading tech articles, and using words like 'dope!' and 'stoked!' about VR, bots, and neural networks. Coding has taken over my life. I still can't quite believe it.
 
-Currently I'm looking for a career in London's tech scene as a full-stack developer, in an ambitious company working at the top of their field. Working on a product that I can get excited about is crucial, as is working in a team that will support me in learning new skills.
+Currently I'm looking for a career in London as a full-stack developer, in an ambitious company working at the top of their field. Working on a product that I can get excited about is crucial, as is working in a team that will support me in learning new skills.
 
 When I'm pushed to learn something new every day, for a cause I believe in, I'm extremely motivated and productive.
 
-**Tech Skills:** TDD, Pair-Programming, Agile, Vim Ninja
+**Tech Skills:** TDD, Pair-Programming, Agile, XP Values, Vim Ninja
 ***
 
 ## <a name="projects">Projects</a>
 
 |     GitHub Repo  |  Description  | Technologies | Blog Post |
 |--------------|---------------|--------------|------------|
-|  [Number Identifier](https://github.com/nazwhale/playing-with-tensorflow)   |  A convolutional Neural Network that learnt how to identify hand-written digits with 97% accuracy.           | Python, Tensorflow          | [Neural Network in a Week](https://medium.com/@nazwhale/neural-network-in-a-week-3ef84175191b) |
-|   [Dusty](https://github.com/nazwhale/dusty)     |  A featherweight testing framework written in vanilla JavaScript and [published to NPM](https://www.npmjs.com/package/dusty-testing). |       JavaScript, Jasmine         | [Diving Deeper](https://medium.com/@nazwhale/diving-deeper-a6e519c21ab) |
-|   [PoochPads](https://github.com/kittysquee/poochpads)     |  An AirBnB-style bookings app for dog-owners, and my first collaborative project. |   Ruby, PostgreSQL, BCrypt, HTML, CSS, RSpec, Capybara         | [Team Time](https://medium.com/codewhale/team-time-6fa9a64d8282) |
-|  [Gilded Rose](https://github.com/nazwhale/GildedRose-Refactoring-Kata)   |  A task to refactor a poor piece of programming. Despite being a small project, I'm proud of the cleanliness and testability of my code.       | Ruby, RSpec          | N/A |
-|   [NazBot](https://github.com/nazwhale/nazbot)     |  A Twitter Bot using the Guardian's API to reply to tweets with relevant news stories. [Give it a go!](https://twitter.com/thenazbot/with_replies) |   JavaScript, NodeJS  | [On Rails](https://medium.com/codewhale/on-rails-9346ab7a56b9) |
+|  [Spaceship](hhttps://github.com/nazwhale/spaceship)   |  I'm very proud of this project. Integrating virtual reality with Amazon's Alexa seemed mental for group of 10-week-old devs, but we made it work, learnt a ton (specifically, groupwork, cloud services, and programming for VR), and even implemented a couple of extra features. See the repo for our daily "Log Book".      | JavaScript, Jasmine, A-Frame, Firebase, Alexa & AWS Lambda        | To be written... |
+|  [Gilded Rose](https://github.com/nazwhale/GildedRose-Refactoring-Kata)   |  A task to refactor a poor piece of programming. Despite being a small project, I'm proud of the cleanliness and testability of my code. It was really satisfying to realise how far I've come in terms of object-oriented programming and test-driven development. | Ruby, RSpec          | N/A |
+|  [Number Identifier](https://github.com/nazwhale/playing-with-tensorflow)   |  A convolutional Neural Network that learnt how to identify hand-written digits with 98% accuracy. This was meant to be part of a larger group project that never got finished, so I've linked the repo in which the Tensorflow experiments took place.          | Python, Tensorflow          | [Neural Network in a Week](https://medium.com/@nazwhale/neural-network-in-a-week-3ef84175191b) |
+|   [PoochPads](https://github.com/kittysquee/poochpads)     |  An AirBnB-style bookings app for dog-owners, and my first collaborative project. We learnt a lot about collaberating with Git, and well as delegating features between us, having regular stand-ups, and working with XP values and Agile practices. |   Ruby, PostgreSQL, BCrypt, HTML, CSS, RSpec, Capybara         | [Team Time](https://medium.com/codewhale/team-time-6fa9a64d8282) |
+
 
 Here's my neural network's representation of a 3 (I couldn't resist):
 <div style="text-align:center"><img src ="three.png" /></div>
+
+## <a name="side-projects">Side-Projects</a>
+
+Somehow I've ended up with a ridiculous amount of weird coding experiments from my weekends at Makers. Here are a few of the most coherent:
+- NazBot
+  - A Twitter Bot using the Guardian's API to reply to tweets with relevant news stories ([Give it a go!](https://twitter.com/thenazbot/with_replies))
+  - [Repo](https://twitter.com/thenazbot/with_replies)
+  - [Blog Post](https://medium.com/codewhale/on-rails-9346ab7a56b9)
+- Star Wars Facts
+ - A skill for Amazon's Alexa, now [published on the US skills store](https://www.amazon.com/dp/B0725WTNWZ/ref=sr_1_1?s=digital-skills&ie=UTF8&qid=1495642862&sr=1-1&keywords=star+wars+facts)
+ - I adapted a tutorial directly into AWS Lambda one Sunday afternoon, so unfortunately there's no repo
+- Dusty
+  - A featherweight testing framework for JavaScript
+  - [Repo](https://github.com/nazwhale/dusty)
+  - [Blog Post](https://medium.com/@nazwhale/diving-deeper-a6e519c21ab)
+  - It's [published to NPM](https://www.npmjs.com/package/dusty-testing). People are downloading it!
 
 ***
 ## <a name="skills">Skills</a>
