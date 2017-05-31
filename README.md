@@ -86,12 +86,11 @@ Currently, I'm honing my skills at [Makers Academy](http://www.makersacademy.com
 
 #### Reigate Grammar School (September '03 to July '10)
 
-**A Levels:**
-
-- Mathematics - A*
-- Economics - A
-- Geography - A
-- History - A
+- A Levels:
+  - Mathematics - A*
+  - Economics - A
+  - Geography - A
+  - History - A
 
 ***
 
