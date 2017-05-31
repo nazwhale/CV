@@ -81,12 +81,12 @@ Currently, I'm honing my skills at [Makers Academy](http://www.makersacademy.com
 #### University College London (September '11 to July '14)
 
 - BSc Experimental Psychology
-- High 2:1 grade
-- High 1st in dissertation
+  - High 2:1 grade
+  - High 1st in dissertation
 
 #### Reigate Grammar School (September '03 to July '10)
 
-- A Levels:
+- A-Levels
   - Mathematics - A*
   - Economics - A
   - Geography - A
