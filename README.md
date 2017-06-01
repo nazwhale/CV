@@ -64,7 +64,7 @@ Later, I learned to critique experimental designs and evaluate academic literatu
 
 **Excellent Communicator**
 
-I believe that the ability for a developer to communicate their code to others is crucial. As a result, I've paid close attention the way in which I articulate my code when pair-programming and working in groups, a feature of my life as a developer. Additionally, I've strived to improve my written communication skills by blogging about my experience learning to code weekly.
+I believe that the ability for a developer to communicate their code to others is crucial. As a result, I've paid close attention the way in which I articulate my code when pair-programming and working in groups, a feature of my life as a developer. I've put this into practice by teaching HTML and CSS to beginners at [Codebar](https://codebar.io/). Additionally, I've strived to improve my written communication skills by blogging about my experience learning to code weekly.
 
 For two years I was a freelance writer, having my work published online at Canvas and Music is My Sanctuary, as well as published in print for Middlesex University. I learned to adapt my writing for different audiences, crafting my style for their specific requirements. I was obsessive about improving my skills.
 
