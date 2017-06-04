@@ -5,13 +5,15 @@
 
 ### About Me
 
-Five months ago I thought I was a person without a passion.
+Six months ago I thought I was a person without a passion.
 
-I’m now a developer who spends his spare time going to meet-ups and conferences, writing a coding blog, reading tech articles, and using words like 'dope!' and 'stoked!' about VR, bots, and neural networks. Coding has taken over my life. I still can't quite believe it.
+Previously a writer and journalist, last summer I had an idea for a learning application. After obsessively designing the user-experience, I wanted the power to make my idea a reality. I became curious about coding and realised there was a world of things I'd be able to make if I had the skills.
+
+I’m now a developer who spends his spare time going to meet-ups and conferences, [writing a coding blog](http://www.medium.com/@nazwhale), reading tech articles, and using words like 'dope!' and 'stoked!' about VR, bots, and neural networks. Coding has taken over my life. I still can't quite believe it.
 
 Currently I'm looking for a career in London as a full-stack developer, in an ambitious company working at the top of their field. Working on a product that I can get excited about is crucial, as is working in a team that will support me in learning new skills.
 
-When I'm pushed to learn something new every day, for a cause I believe in, I'm extremely motivated and productive.
+When I'm in an intellectually stimulating environment, working for a cause I believe in, I'm extremely motivated and productive.
 
 **Tech Skills:** TDD, Pair-Programming, Agile, XP Values, Vim Ninja
 ***
@@ -50,25 +52,25 @@ Somehow I've ended up with a ridiculous amount of weird coding experiments from 
 
 **Creativity**
 
-In the last month at Makers Academy, I came up with a quarter of the democratically chosen ideas for the practice and final projects.
+In the last month at Makers Academy, from a group of 24, I came up with a quarter of the democratically chosen ideas for the practice and final projects.
 
 Furthermore, I was chosen for a highly competitive dissertation project at UCL specifically for my ability to generate ideas. I put this into use by coming up with a piece of original research and rigorously designing an experiment.
 
 In my own time I've written a bunch of songs, composed music for an animation, and am currently working on a novel.
+
+**Communication**
+
+I believe that the ability for a developer to communicate their code to others is crucial. As a result, I've paid close attention the way in which I articulate my code when pair-programming and working in groups, a feature of my life as a developer. I've put this into practice by teaching HTML and CSS to beginners at [Codebar](https://codebar.io/). Additionally, I've strived to improve my written communication skills by [blogging](http://www.medium.com/@nazwhale) about my experience learning to code weekly.
+
+For two years I was a freelance writer, having my work published online at Canvas and Music is My Sanctuary, as well as published in print for Middlesex University. I learned to adapt my writing for different audiences, crafting my style for their specific requirements. I was obsessive about improving my skills. I hope my writing skills will be useful in crafting high quality documentation as a developer.
+
+Since leaving university I've lived in 5 countries, each for more than 3 months. From this experience I became comfortable communicating with people from a diverse range of backgrounds.
 
 **Logical/Analytical Thinker**
 
 Logical thinking has always been my strong point - throughout school, I consistently achieved my highest grades in Maths and Sciences. Additionally, I am a keen chess player.
 
 Later, I learned to critique experimental designs and evaluate academic literature as a fundamental part of my degree in Experimental Psychology. In learning to code, the opportunity to flex my logical thinking muscles once again has been hugely enjoyable and rewarding.
-
-**Excellent Communicator**
-
-I believe that the ability for a developer to communicate their code to others is crucial. As a result, I've paid close attention the way in which I articulate my code when pair-programming and working in groups, a feature of my life as a developer. I've put this into practice by teaching HTML and CSS to beginners at [Codebar](https://codebar.io/). Additionally, I've strived to improve my written communication skills by blogging about my experience learning to code weekly.
-
-For two years I was a freelance writer, having my work published online at Canvas and Music is My Sanctuary, as well as published in print for Middlesex University. I learned to adapt my writing for different audiences, crafting my style for their specific requirements. I was obsessive about improving my skills.
-
-Since leaving university I've lived in 5 countries, each for more than 3 months. From this experience I became comfortable communicating with people from a diverse range of backgrounds.
 
 ***
 
