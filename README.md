@@ -78,7 +78,7 @@ Later, I learned to critique experimental designs and evaluate academic literatu
 
 #### Makers Academy (March to June '17)
 
-Currently, I'm honing my skills at [Makers Academy](http://www.makersacademy.com/), a highly-selective software development bootcamp in London. Their “Oxbridge meets the Royal Marines for developers” environment has transformed me from a writer to a self-sufficient and enthusiastic developer.
+I learnt to code at [Makers Academy](http://www.makersacademy.com/), a highly-selective software development bootcamp in London. Their “Oxbridge meets the Royal Marines for developers” environment has transformed me from a writer to a self-sufficient and enthusiastic developer.
 
 #### University College London (September '11 to July '14)
 
