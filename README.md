@@ -111,7 +111,7 @@ Assisted with the running of experiments at the Psychopharmacology lab.
 
 #### Life Experience
 
-After my degree, I made a conscious decision to try and travel the world whilst financially supporting myself from my laptop. I found several freelance writing jobs and spent 2 years living and working in Morocco, Sri Lanka, Colombia, Guatemala, and China.
+After my degree, I made the decision to travel the world whilst financially supporting myself from my laptop. I found several freelance writing jobs and spent 2 years living and working in Morocco, Sri Lanka, Colombia, Guatemala, and China.
 
 While traveling, I always tried to keep learning.
 Here are some things I can do, which I couldn't when I graduated:
