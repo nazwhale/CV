@@ -42,7 +42,7 @@ Somehow I've ended up with a ridiculous amount of weird coding experiments from 
   - A skill for Amazon's Alexa, now [published on the US skills store](https://www.amazon.com/dp/B0725WTNWZ/ref=sr_1_1?s=digital-skills&ie=UTF8&qid=1495642862&sr=1-1&keywords=star+wars+facts)
   - I adapted a tutorial directly into AWS Lambda one Sunday afternoon, so unfortunately there's no repository on GitHub (yet)
 - Dusty
-  - A featherweight testing framework for JavaScript. It only has 3 matchers, and, thought I realise this might be excessively featherweight, it was fun to make and pleasing to publish
+  - A featherweight testing framework for JavaScript. It only has 3 matchers, and, though I realise this might be excessively featherweight, it was fun to make and pleasing to publish
   - [Repo](https://github.com/nazwhale/dusty)
   - [Blog Post](https://medium.com/@nazwhale/diving-deeper-a6e519c21ab)
   - It's [published to NPM](https://www.npmjs.com/package/dusty-testing). People are downloading it!
