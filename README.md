@@ -1,21 +1,25 @@
 # Naz Malik
 
-[Projects](#projects) | [Side-Projects](#side-projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Coding Blog on Medium](http://www.medium.com/@nazwhale)
+[Projects](#projects) | [Side-Projects](#side-projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Coding Blog on Medium](http://www.medium.com/@nazwhale)
 ***
 
 ### About Me
 
-Six months ago I thought I was a person without a passion.
-
-Previously a writer and journalist, last summer I had an idea for a learning application. After obsessively designing the user-experience, I wanted the power to make my idea a reality. I became curious about coding and realised there was a world of things I'd be able to make if I had the skills.
+Previously a music writer and journalist, last summer I had an idea for a learning application. After obsessively designing the user-experience, I wanted the power to make my idea a reality. I became curious about coding and realised there was a world of things I'd be able to make if I had the skills.
 
 I’m now a developer who spends his spare time going to meet-ups and conferences, [writing a coding blog](http://www.medium.com/@nazwhale), reading tech articles, and using words like 'dope!' and 'stoked!' about VR, bots, and neural networks. Coding has taken over my life. I still can't quite believe it.
+
+Since learning to code at Makers Academy (a 12-week bootcamp), I was hired within a week (see [Experience](#experience)), have given a number of [lightning talks](https://medium.com/@nazwhale/the-hole-in-my-pocket-c09458178932) around London, taught at [CodeBar](http://codebar.io/), and wrote a [prizewinning blog](https://medium.com/@nazwhale) about learning to code. In September, alongside another developer, I'll be conducting a [session](https://www.eventbrite.co.uk/e/snakers-academy-build-a-game-in-3-hours-with-makers-academy-tickets-36829788890) to teach approximately 80 coding newcomers how to code the game 'snake'. 
 
 Currently I'm looking for a career in London as a full-stack developer, in an ambitious company working at the top of their field. Working on a product that I can get excited about is crucial, as is working in a team that will support me in learning new skills.
 
 When I'm in an intellectually stimulating environment, working for a cause I believe in, I'm extremely motivated and productive.
 
+**A word from my coach at Makers Academy:**
+"Naz is one of the most impressive individuals I have seen go through the course. Within a weekend of me helping him get set up with Vim he was teaching me new things, I've seen him inspire other members of his cohort to push themselves and his desire to learn and grow is astounding, and I've been continually impressed by his creativity and passion for new technologies. He is also a damn good egg."
+
 **Tech Skills:** TDD, Pair-Programming, Agile, XP Values, Vim Ninja
+
 ***
 
 ## <a name="projects">Projects</a>
@@ -74,31 +78,15 @@ Later, I learned to critique experimental designs and evaluate academic literatu
 
 ***
 
-## <a name="education">Education</a>
-
-#### Makers Academy (March to June '17)
-
-I learnt to code at [Makers Academy](http://www.makersacademy.com/), a highly-selective software development bootcamp in London. Their “Oxbridge meets the Royal Marines for developers” environment has transformed me from a writer to a self-sufficient and enthusiastic developer.
-
-#### University College London (September '11 to July '14)
-
-- BSc Experimental Psychology
-  - High 2:1 grade
-  - High 1st in dissertation
-
-#### Reigate Grammar School (September '03 to July '10)
-
-- A-Levels
-  - Mathematics - A*
-  - Economics - A
-  - Geography - A
-  - History - A
-
-***
-
 ## <a name="experience">Experience</a>
 
 #### Work Experience
+
+**Full-Stack Developer - Comsec Investigations** (June '17 - present)
+Technologies used include C#, ASP.NET, JavaScript, SQL, and AWS (Lamdba, S3, Step Functions).
+
+In my first few months I've written a significant amount of production code and have become comfortable with a new programming language (C#). I've also introduced regular feedback sessions with my team in an attempt to improve our communication. 
+
 
 **Freelance Writer - Various** (May '16 to February '17)
 Writing reports, online music journalism, and copywriting for various companies to fund a globetrotting lifestyle for 2 years after university.
@@ -121,3 +109,25 @@ Here are some things I can do, which I couldn't when I graduated:
 - Speak Spanish at a strong intermediate level
 - Fly a paraglider (achieved private license)
 - Touch my toes (3 months kung-fu study in China)
+
+***
+
+## <a name="education">Education</a>
+
+#### Makers Academy (March to June '17)
+
+I learnt to code at [Makers Academy](http://www.makersacademy.com/), a highly-selective software development bootcamp in London. Their “Oxbridge meets the Royal Marines for developers” environment has transformed me from a writer to a self-sufficient and enthusiastic developer.
+
+#### University College London (September '11 to July '14)
+
+- BSc Experimental Psychology
+  - High 2:1 grade
+  - High 1st in dissertation
+
+#### Reigate Grammar School (September '03 to July '10)
+
+- A-Levels
+  - Mathematics - A*
+  - Economics - A
+  - Geography - A
+  - History - A
