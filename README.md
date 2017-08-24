@@ -7,7 +7,7 @@
 
 Previously a music writer and journalist, last summer I had an idea for a learning application. After obsessively designing the user-experience, I wanted the power to make my idea a reality. I became curious about coding and realised there was a world of things I'd be able to make if I had the skills.
 
-I’m now a developer who spends his spare time going to meet-ups and conferences, [writing a prizewinning coding blog](http://www.medium.com/@nazwhale), reading tech articles, and using words like 'dope!' and 'stoked!' about VR, bots ([here's one I made](https://twitter.com/thenazbot/with_replies)), and neural networks. Coding has taken over my life. I still can't quite believe it.
+I’m now a developer who spends his spare time going to meet-ups and conferences, [writing a prizewinning coding blog](http://www.medium.com/@nazwhale), reading tech articles, and using words like 'dope!' and 'stoked!' about VR, bots ([here's one I made earlier](https://twitter.com/thenazbot/with_replies)), and neural networks. Coding has taken over my life. I still can't quite believe it.
 
 Since learning to code at Makers Academy (a 12-week bootcamp), I was hired within a week (see [Experience](#experience)), have given a number of [lightning talks](https://medium.com/@nazwhale/the-hole-in-my-pocket-c09458178932) around London, and have taught at [CodeBar](http://codebar.io/). In September, alongside another developer, I'll be conducting a [session](https://www.eventbrite.co.uk/e/snakers-academy-build-a-game-in-3-hours-with-makers-academy-tickets-36829788890) to teach approximately 80 programming newcomers how to code the game 'snake'. 
 
