@@ -16,7 +16,7 @@ Currently I'm looking for a career in London as a full-stack developer, in an am
 When I'm in an intellectually stimulating environment, working for a cause I believe in, I'm extremely motivated and productive.
 
 **A word from my coach at Makers Academy:**
-"Naz is one of the most impressive individuals I have seen go through the course. Within a weekend of me helping him get set up with Vim he was teaching me new things, I've seen him inspire other members of his cohort to push themselves and his desire to learn and grow is astounding, and I've been continually impressed by his creativity and passion for new technologies. He is also a damn good egg."
+"Naz is one of the most impressive individuals I have seen go through the course. Within a weekend of me helping him get set up with Vim he was teaching me new things, I've seen him inspire other members of his cohort to push themselves and his desire to learn and grow is astounding, and I've been continually impressed by his creativity and passion for new technologies. He is also a damn good egg 🥚 👍"
 
 **Tech Skills:** TDD, Pair-Programming, Agile, XP Values, Vim Ninja
 
