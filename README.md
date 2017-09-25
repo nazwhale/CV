@@ -9,7 +9,7 @@ Previously a music writer and journalist, last summer I had an idea for a learni
 
 I’m now a developer who spends his spare time going to meet-ups and conferences, [writing a prizewinning coding blog](http://www.medium.com/@nazwhale), reading tech articles, and using words like 'dope!' and 'stoked!' about VR, bots ([here's one I made earlier](https://twitter.com/thenazbot/with_replies)), and neural networks. Coding has taken over my life. I still can't quite believe it.
 
-Since learning to code at Makers Academy (a 12-week bootcamp), I was hired within a week (see [Experience](#experience)), have given a number of [lightning talks](https://medium.com/@nazwhale/the-hole-in-my-pocket-c09458178932) around London, and have taught at [CodeBar](http://codebar.io/). In September, alongside another developer, I'll be conducting a [session](https://www.eventbrite.co.uk/e/snakers-academy-build-a-game-in-3-hours-with-makers-academy-tickets-36829788890) to teach approximately 80 programming newcomers how to code the game 'snake'. 
+Since learning to code at Makers Academy (a 12-week bootcamp), I was hired within a week (see [Experience](#experience)), have given a number of [lightning talks](https://medium.com/@nazwhale/the-hole-in-my-pocket-c09458178932) around London, and have taught at [CodeBar](http://codebar.io/). In September, I organised and ran an [event](https://www.eventbrite.co.uk/e/snakers-academy-build-a-game-in-3-hours-with-makers-academy-tickets-36829788890) to teach 35 programming newcomers how to code the retro game 'snake'.
 
 Currently I'm looking for a career in London as a full-stack developer, in an ambitious company working at the top of their field. Working on a product that I can get excited about is crucial, as is working in a team that will support me in learning new skills.
 
@@ -17,6 +17,11 @@ When I'm in an intellectually stimulating environment, working for a cause I bel
 
 **A word from my coach at Makers Academy:**
 "Naz is one of the most impressive individuals I have seen go through the course. Within a weekend of me helping him get set up with Vim he was teaching me new things, I've seen him inspire other members of his cohort to push themselves and his desire to learn and grow is astounding, and I've been continually impressed by his creativity and passion for new technologies. He is also a damn good egg 🥚 👍"
+
+**And from Makers' the head of marketing, who helped me organise ['Snakers Academy'](https://www.eventbrite.co.uk/e/snakers-academy-build-a-game-in-3-hours-with-makers-academy-tickets-36829788890):**
+"I was impressed with how well organised Naz was in creating the materials for the event, as well as how seamlessly and naturally he worked with my team to ensure we had a high number of signups (which we did - in fact, it was a record for a 'learn to code' event). Naz lead the entire event, teaching over 30 beginners (with varying ability levels), empathising with those that were struggling, keeping the 'fast learners' entertained, and generally making sure that all attendees had a great time and learnt a tonne, all while keeping a smile on his face and a positive, empowering tone to the event.
+
+Naz is flexible, hard working, kind, resourceful, empathic, a great communicator, and more than any of this - the sort of person you'd want on your team."
 
 **Tech Skills:** TDD, Pair-Programming, Agile, XP Values, Vim Ninja
 
